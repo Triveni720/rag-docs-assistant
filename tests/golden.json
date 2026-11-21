@@ -1,0 +1,14 @@
+[
+  {"question": "What are the three layers of API-led connectivity?", "source": "mulesoft.md", "section": "API-led connectivity"},
+  {"question": "Which language transforms JSON to XML in MuleSoft?", "source": "mulesoft.md", "section": "DataWeave"},
+  {"question": "How do I design an API spec before building it?", "source": "mulesoft.md", "section": "RAML"},
+  {"question": "Where are Mule apps deployed and how are APIs secured with policies?", "source": "mulesoft.md", "section": "Deployment"},
+  {"question": "What happens when a lead is qualified and converted?", "source": "salesforce.md", "section": "Standard objects"},
+  {"question": "How can I find all contacts with a birthday next month?", "source": "salesforce.md", "section": "Reports and dashboards"},
+  {"question": "How do external systems sync data with Salesforce?", "source": "salesforce.md", "section": "Integration"},
+  {"question": "What is Agentforce used for?", "source": "salesforce.md", "section": "Agentforce"},
+  {"question": "What happens if a pod is deleted in a deployment?", "source": "kubernetes.md", "section": "Pods and Deployments"},
+  {"question": "What is the difference between a readiness probe and a liveness probe?", "source": "kubernetes.md", "section": "Probes"},
+  {"question": "How do pods get a stable network address?", "source": "kubernetes.md", "section": "Services"},
+  {"question": "What does a Docker image package?", "source": "kubernetes.md", "section": "Docker images"}
+]
